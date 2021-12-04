@@ -9,3 +9,5 @@
 4. Not all of the exercises will be solved by the most efficient manner, but sometimes just in the most readable way. However, if highest efficiency is key for an exercise, the focus will be put on efficiency.
 
 5. I try to solve most exercises without any modules unless modules are necessary or significantly contribute to efficiency or readaility.
+
+6. If you find any bugs in my code or have any questions or recommendations, feel free to contact me!
