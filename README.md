@@ -1,6 +1,6 @@
 # Project Euler in Python
 
-1. In this repository I collect my solutions to the famous set of mathematical challenges found at https://projecteuler.net.
+1. In this repository I collect and document my solutions to the famous set of mathematical challenges found at https://projecteuler.net.
 
 2. While I am trying to solve the exercises in ascending order (which mostly resembles ascending difficulty), I will solve some exercises from a later stage without having done some preceding ones.
 
